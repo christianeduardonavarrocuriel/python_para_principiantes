@@ -73,4 +73,4 @@ Al realizar estas operaciones, los resultados son los siguientes:
 2/2 = 1.0 
 ```
 
-¿Te salió asi? ¡Perfecto! Es bueno que te saliera cada resultado de esta forma, ahora, toca que esten dentro de un solo **print**, asi que, te recomiendo que te dirigas a las [operaciones ordenadas](./leccion1_5.md) para aprender a hacerlo :) 
+¿Te salió asi? ¡Perfecto! Es bueno que te saliera cada resultado de esta forma, ahora, toca que esten dentro de un solo **print**, asi que, te recomiendo que te dirigas a las [operaciones ordenadas](./continuacion_leccion1.md) para aprender a hacerlo :) 
