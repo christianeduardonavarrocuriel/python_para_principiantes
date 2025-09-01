@@ -4,4 +4,9 @@ Hola, Soy Christian, apenas estoy estudiando hacia mi carrera de TIC, aunque en 
 
 Bienvenidos a este repositorio, apenas estoy aprendiendo, asi que, creé este repositorio para aprender el lenguaje de programación "Python".
 
-- NOTA IMPORTANTE (FAVOR DE LEERLA): LEE SIEMPRE LOS **"README.md"** O DOCUMENTOS QUE ESTEN DENTRO DE UNA CARPETA CON **".md"** PARA PODER GUIARTE DE MEJOR MANERA. TAMBIÉN RECUERDEN QUE TODO ARCHIVO DE PYTHON TIENE QUE TENER AL FINAL "**.py**" :). 
+- NOTA IMPORTANTE (FAVOR DE LEERLA): LEE SIEMPRE LOS **"README.md"** O DOCUMENTOS QUE ESTEN DENTRO DE UNA CARPETA CON **".md"** PARA PODER GUIARTE DE MEJOR MANERA. TAMBIÉN RECUERDEN QUE TODO ARCHIVO DE PYTHON TIENE QUE TENER AL FINAL "**.py**".
+
+
+Bueno, sin más que decir, bienvenid@ y empecemos con este viaje :)
+
+![El gran DeLorean y Einstein](./delorean.gif)
